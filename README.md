@@ -10,7 +10,7 @@ A feature-rich, multi-language calculator built with Python and CustomTkinter, o
 - **Programmer Mode**: Binary, hexadecimal, and octal operations
 
 ### 🎨 Visual Features
-- **Multiple Themes**: Light, Dark, and Blue themes
+- **Multiple Themes**: Light and Dark themes.
 - **Smooth Animations**: Button hover effects and result animations
 - **Resizable Interface**: Fully responsive design
 - **Modern UI**: Clean, professional appearance with CustomTkinter
