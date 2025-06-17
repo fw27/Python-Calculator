@@ -1,0 +1,7 @@
+customtkinter>=5.2.0
+tkinter
+math
+json
+datetime
+os
+typing
