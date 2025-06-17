@@ -294,7 +294,7 @@ class AdvancedCalculator(ctk.CTk):
         # Theme selector
         self.theme_menu = ctk.CTkOptionMenu(
             menu_frame,
-            values=["Dark", "Light", "Blue", "Green", "Pink"],
+            values=["Dark", "Light"],
             command=self.change_theme,
             width=80
         )
